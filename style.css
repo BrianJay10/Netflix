@@ -56,7 +56,6 @@ body {
     cursor: pointer;
 }
 
-/* Steady Red Sign In Button */
 .sign-in-btn {
     background-color: red;
     color: white;
@@ -67,7 +66,6 @@ body {
     cursor: pointer;
 }
 
-/* Remove hover effect */
 .sign-in-btn:hover {
     background-color: red;
 }
